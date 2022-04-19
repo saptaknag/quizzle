@@ -22,7 +22,7 @@ let data = [{word:'WATER',question:'Island and the letter T are both in the midd
 {word:'SMILES',question:'Longest word in the dictionary',difficulty:3},
 {word:'REVOLUTION',question:'What happened when wheel was invented?',difficulty:3},
 {word:'TON',question:'Forwards Im heavy but backwards Im not.',difficulty:3},
-{word:'FOOT',question:'I have one head, one foot, and four legs.',difficulty:3},
+{word:'BED',question:'I have one head, one foot, and four legs.',difficulty:3},
 {word:'AGE',question:'What goes up but never down?',difficulty:3},
 {word:'STAIRCASE',question:'What goes up and down but cant move?',difficulty:3},
 {word:'INCORRECT',question:'What word is spelled incorrect in every single dictionary?',difficulty:3},
